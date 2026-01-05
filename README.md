@@ -2,7 +2,7 @@
 
 A highly realistic, real-time liquid mercury hero background built with **Vue 3**, **Three.js**, and custom **GLSL Raymarching Shaders**. 
 
-![Mercury Visions Preview](https://hero-section-3.vercel.app/)
+https://hero-section-3.vercel.app/
 
 ## ✨ Features
 - **High-Fidelity Mercury Engine**: Procedural raymarching with 25+ dynamic metaballs.
